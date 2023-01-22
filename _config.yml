@@ -103,18 +103,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Youngjun Woo"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
+  bio              : "M.S. in Data Science | University of Michigan"
   location         : "Ann Arbor, Michigan"
-  email            : #email@umich.edu
+  email            : yjwoo@umich.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:email@umich.edu"
     - label: "University Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://lsa.umich.edu/math/people/quant/2018.html"
+      url: "https://lsa.umich.edu/stats/people/master-s-students-of-data-science/class-of-2021.html#q=&alpha=&page=1&tag=&tagns=&tagtext=&time=1674387323136"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/JunWoo-data"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/"
