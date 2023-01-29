@@ -9,17 +9,27 @@ toc_label: "Table of Contents"
 toc_sticky: false
 ---
 
-This repo contains files to my projects and course work. 
+This page contains files to my projects and course work. 
 
 ### Contact
 
-Mail: email@umich.edu
+Mail: yjwoo@umich.edu
 
-Tel: (734) 555-5555
+Tel: (734) 934-0125
 
 ### About me
-I am a First-Year Masters Student at the University of Michigan
-studying Quantitative Finance and Risk Management. 
+I am a Second-Year Masters Student at the University of Michigan
+studying Data Science. I double majored in Statistics and Economics and minored in Mathematics from Yonse University, Korea. I have programming experience in C++, Python, SQL, Julia, and R. I am interested in thinking about what information users will need and analyzing and visualizing it using statistical and machine learning models.
 
-Here is a link to my [Resume/CV](https://www.google.com).
+### Coursework
+These are courseworks from University of Michigan and Yonsei University.
+- EECS: Data Structure and Algorithm, Database Management System, Computer Vision, Matrix Method for Machine Learning.
+- Statistics: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics,
+- Economics: Microeconomics, Macroeconomics International Finance, Game Theory, Financial Engineering, Law and Economics
+- Mathematics:  Analysis, Abstract Algebra, Differential Geometry, Topology, Linear Algebra
+
+This page (Coursework) contains various worked-out problem sets from my courses at University of Michigan.
+
+### Projects
+This page (Projects) contains projects I participated or currently working on. 
 
