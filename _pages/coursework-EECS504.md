@@ -12,7 +12,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
 - Frameworks: Pytorch, SciPy
 - Topics:
 
-## Homeworks -
+## Homeworks
 
 <ul>
   {% for post in site.categories.EECS504 %}
