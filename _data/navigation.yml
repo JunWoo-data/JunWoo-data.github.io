@@ -6,9 +6,9 @@ main:
   - title: "About"
     url: https://junwoo-data.github.io/
   - title: "Coursework"
-    url: https://junwoo-data.github.io/coursework/
+    url: /coursework/
   - title: "Projects"
-    url: https://junwoo-data.github.io/projects/
+    url: /projects/
   # - title: "LinkedIn"
   #   icon: "fab fa-fw fa-linkedin"
   #   url: https://www.linkedin.com/
