@@ -9,7 +9,7 @@ toc_label: "Table of Contents"
 toc_sticky: false
 ---
 
-This page contains files to my projects and course work. 
+This page contains files to my projects and course work. I am constantly uploading contents.
 
 ### Contact
 
@@ -24,12 +24,12 @@ studying Data Science. I double majored in Statistics and Economics and minored 
 ### Coursework
 These are courseworks from University of Michigan and Yonsei University.
 - EECS: Data Structure and Algorithm, Database Management System, Computer Vision, Matrix Method for Machine Learning.
-- Statistics: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics,
-- Economics: Microeconomics, Macroeconomics International Finance, Game Theory, Financial Engineering, Law and Economics
+- Statistics: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics, Mathematical Statistics.
+- Economics: Microeconomics, Macroeconomics, International Finance, Game Theory, Financial Engineering, Law and Economics
 - Mathematics:  Analysis, Abstract Algebra, Differential Geometry, Topology, Linear Algebra
 
-This page (Coursework) contains various worked-out problem sets from my courses at University of Michigan.
+This page (Coursework) contains various worked-out problem sets from my courses at University of Michigan. I am constantly uploading contents.
 
 ### Projects
-This page (Projects) contains projects I participated or currently working on. 
+This page (Projects) contains projects I participated or currently working on. I am constantly uploading contents.
 
