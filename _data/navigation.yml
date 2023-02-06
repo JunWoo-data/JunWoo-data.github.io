@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: https://junwoo-data.github.io/
   - title: "Coursework"
-    url: /coursework/
+    url: /coursework.md
   - title: "Projects"
-    url: /projects/
+    url: /projects.md
   - title: "Github"
     icon: "fab fa-fw fa-github"
     url: https://github.com/JunWoo-data
