@@ -111,10 +111,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:email@umich.edu"
+      url: "mailto:yjwoo@umich.edu"
     - label: "University Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://lsa.umich.edu/stats/people/master-s-students-of-data-science/class-of-2021.html#q=&alpha=&page=1&tag=&tagns=&tagtext=&time=1674387323136"
+      url: "https://lsa.umich.edu/stats/people/master-s-students-of-data-science/class-of-2021.html#q=&alpha=W&page=1&tag=&tagns=&tagtext=&time=1675033118504"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
