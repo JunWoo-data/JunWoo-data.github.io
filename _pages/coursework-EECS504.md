@@ -14,11 +14,11 @@ This page contains my course work from EEECS 504 (Fall 2022)
 
 ## Homeworks -
 
-<ul>
+<!-- <ul>
   {% for post in site.categories.EECS504 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul>
+</ul> -->
