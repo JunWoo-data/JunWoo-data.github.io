@@ -10,7 +10,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
 
 - Programming language: Python
 - Frameworks: Pytorch, SciPy
-- Topics:
+- Topics: 
 
 ## Homeworks -
 
