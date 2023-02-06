@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "1. Pet edge detection"
-permalink: /coursework/EECS504/hw1_upload.html
+permalink: /coursework/EECS504/hw1_upload.md
 comments: true
 author_profile: true
 categories: ["EECS504"]
