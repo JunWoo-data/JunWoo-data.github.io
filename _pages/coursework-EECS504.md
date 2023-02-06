@@ -12,8 +12,10 @@ This page contains my course work from EEECS 504 (Fall 2022)
 - Frameworks: Pytorch
 - Topics:
 
+## Homeworks
+
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts.EECS504 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
