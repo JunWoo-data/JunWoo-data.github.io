@@ -6,7 +6,7 @@ comments: true
 author_profile: true
 ---
 
-## EECS 504 - Computer Vision 
+## [EECS 504 - Computer Vision](https://junwoo-data.github.io/coursework/EECS504/)
 
 This page contains my course work from EEECS 504 (Fall 2022)
 
