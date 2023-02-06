@@ -6,7 +6,7 @@ comments: true
 author_profile: true
 ---
 
-## ALT-TAB (Tennis club) Dashboard (Link to the Dashboard)
+## ALT-TAB (Tennis club) Dashboard ([Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC))
 - Purpose (Aug 2022)
 - Visualize data from my tennis club by dashboard (Sep 2022)
 - Create a tool for searching past match records in dashboard (Sep 2022)
