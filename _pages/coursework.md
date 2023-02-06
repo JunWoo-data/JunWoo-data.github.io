@@ -14,7 +14,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
 - Frameworks: Pytorch
 - Topics:
 
-## SI 618 - Data Manipulation and Analysis
+## [SI 618 - Data Manipulation and Analysis](https://junwoo-data.github.io/coursework/SI618/)
 
 This page contains my course work from SI 618 (Winter 2022)
 
