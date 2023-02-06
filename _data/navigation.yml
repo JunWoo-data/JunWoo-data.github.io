@@ -3,9 +3,15 @@ main:
   - title: "Github"
     icon: "fab fa-fw fa-github"
     url: https://github.com/
-  - title: "LinkedIn"
-    icon: "fab fa-fw fa-linkedin"
-    url: https://www.linkedin.com/
+  - title: "About"
+    url: https://junwoo-data.github.io/
+  - title: "Coursework"
+    url: https://junwoo-data.github.io/coursework/
+  - title: "Projects"
+    url: https://junwoo-data.github.io/projects/
+  # - title: "LinkedIn"
+  #   icon: "fab fa-fw fa-linkedin"
+  #   url: https://www.linkedin.com/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
