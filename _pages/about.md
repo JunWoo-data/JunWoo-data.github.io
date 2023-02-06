@@ -2,7 +2,7 @@
 layout: single
 title: "Welcome to My Page"
 permalink: /
-comments: true
+comments: false
 author_profile: true
 toc: true
 toc_label: "Table of Contents"
