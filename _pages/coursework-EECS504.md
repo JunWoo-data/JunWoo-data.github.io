@@ -17,6 +17,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
 <ul>
   {% for post in site.categories.EECS504 %}
     <li>
+      <a href="{{ post.url }}"><img src = "{{ pst.thumbnail }}" />
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
