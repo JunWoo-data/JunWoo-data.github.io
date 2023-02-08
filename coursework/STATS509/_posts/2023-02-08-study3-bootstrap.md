@@ -11,6 +11,10 @@ toc_sticky: false
 categories: ["STATS509"]
 ---
 
+{% include coursework/STATS509/3.bootstrap.html %}
+
+## check
+
 ```R
 options(warn=0)
 library(ggplot2)
@@ -394,7 +398,7 @@ $$
 P(\hat \theta - \theta = 0) = 0, \quad \text{for all} \; n
 $$
 
-<DEF: Consistency of the bootstrap>    
+< DEF: Consistency of the bootstrap >    
 
 : Suppose $T(X_1, ..., X_n, F)$ denotes a functional of the data $X_1, ..., X_n$ and a distribution $F$ generating the data. Think of $\sqrt{n}(\bar X_n - \mu) = T_{mean}(X_1, ..., X_n, F)$      
 
@@ -404,13 +408,13 @@ $$
 H_n(x) = P(T(X_1, ..., X_n, F) \leq x) \\
 $$
 
-$\,$ and its bootstrap version   
+  and its bootstrap version   
 
 $$
 H_{n, boot}(x) = P_{*}(T(X_{1}^{*}, ..., X_{n}^{*}, \hat F_{n}) \leq x) \\
 $$
 
-$\,$ where $P_{*}$ means that we treat the data as fixed and sample from $\hat F_{n}$ independently    
+  where $P_{*}$ means that we treat the data as fixed and sample from $\hat F_{n}$ independently    
 
 : Let $\rho$ be a metric measuring proximity between distribution functions. For example,   
 
@@ -418,7 +422,7 @@ $$
 \rho (F, G) = \underset{x \in \mathbb{R}}{sup} |F(x) - G(x)|
 $$  
 
-$\,$ is the Kolmogorov-Smirnov metric.   
+  is the Kolmogorov-Smirnov metric.   
   
 : Then we say that the boostrap is consistent for $T$ and $\rho$, if   
 
@@ -426,7 +430,7 @@ $$
 \rho (H_{n, boot}, H_{n}) \rightarrow 0, \quad \text{in probability}
 $$
 
-< THM : Bickel and Freedman>
+< THM : Bickel and Freedman >
   
 : If $X_1, ..., X_n \sim F$ are iid and $\mathbb{E}(X_{1}^{2}) \lneq \infty$,     
 $\,$ then for $T_{mean}(x_1, ..., X_n, F) = \sqrt{n}(\bar X_n - \mu)$, the bootstrap is consistent in the Kolmogorov and Wasserstein sense.
