@@ -371,26 +371,31 @@ Suppose $X_1, ..., X_n \sim Unif(0, \theta), \quad \theta \gneq 0$
 Let $\hat \theta = X_{(n)}$ be the maximum, which is the MLE. 
 
 Then, note that 
+
 $$
 P_{*}(\hat \theta ^ {*} - \hat \theta = 0) = 1 - (\frac{n - 1}{n}) ^ n
 $$
 
 So, since 
+
 $$
 (\frac{n - 1}{n}) ^ n = (1 - \frac{1}{n}) ^ n \rightarrow e^{-1}, \quad as \quad n \rightarrow \infty \\
 $$
 
 this means that 
+
 $$
 P_{*}(\hat \theta ^ * - \hat \theta = 0) \rightarrow 1 - e^{-1}, \quad as \quad n \rightarrow \infty \\
 $$
 
 That is, the bootstrap is inconsistent, because 
+
 $$
 P(\hat \theta - \theta = 0) = 0, \quad \text{for all} \; n
 $$
 
-$<DEF: Consistency \; of \; the \; bootstrap>$        
+<DEF: Consistency of the bootstrap>    
+
 : Suppose $T(X_1, ..., X_n, F)$ denotes a functional of the data $X_1, ..., X_n$ and a distribution $F$ generating the data. Think of $\sqrt{n}(\bar X_n - \mu) = T_{mean}(X_1, ..., X_n, F)$      
 
 : Consider the distribution function  
@@ -421,7 +426,8 @@ $$
 \rho (H_{n, boot}, H_{n}) \rightarrow 0, \quad \text{in probability}
 $$
 
-$< THM : Bickel \, and \, Freedman>$    
+< THM : Bickel and Freedman>
+  
 : If $X_1, ..., X_n \sim F$ are iid and $\mathbb{E}(X_{1}^{2}) \lneq \infty$,     
 $\,$ then for $T_{mean}(x_1, ..., X_n, F) = \sqrt{n}(\bar X_n - \mu)$, the bootstrap is consistent in the Kolmogorov and Wasserstein sense.
 
