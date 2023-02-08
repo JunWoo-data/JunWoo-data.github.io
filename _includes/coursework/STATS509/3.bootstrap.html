@@ -18317,36 +18317,32 @@ $$</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>$&lt; DEF: Consistency \; of \; the \; bootstrap &gt;$</p>
-<p>: Suppose $T(X_1, ..., X_n, F)$ denotes a functional of the data $X_1, ..., X_n$ and a distribution $F$ generating the data. Think of $\sqrt{n}(\bar X_n - \mu) = T_{mean}(X_1, ..., X_n, F)$</p>
-<p>: Consider the distribution function</p>
+<hr />
+<p>&lt; DEF: Consistency of the bootstrap &gt;</p>
+<ul>
+<li><p>Suppose $T(X_1, ..., X_n, F)$ denotes a functional of the data $X_1, ..., X_n$ and a distribution $F$ generating the data. Think of $\sqrt{n}(\bar X_n - \mu) = T_{mean}(X_1, ..., X_n, F) \\ $</p>
+</li>
+<li><p>Consider the distribution function</p>
+</li>
+</ul>
 $$
 H_n(x) = P(T(X_1, ..., X_n, F) \leq x) \\
-$$<p>$\,$ and its bootstrap version</p>
+$$<p>$\quad$ and its bootstrap version</p>
 $$
 H_{n, boot}(x) = P_{*}(T(X_{1}^{*}, ..., X_{n}^{*}, \hat F_{n}) \leq x) \\
-$$<p>$\,$ where $P_{*}$ means that we treat the data as fixed and sample from $\hat F_{n}$ independently</p>
-<p>: Let $\rho$ be a metric measuring proximity between distribution functions. For example,</p>
+$$<p>$\quad$ where $P_{*}$ means that we treat the data as fixed and sample from $\hat F_{n}$ independently</p>
+<ul>
+<li>Let $\rho$ be a metric measuring proximity between distribution functions. For example,</li>
+</ul>
 $$
 \rho (F, G) = \underset{x \in \mathbb{R}}{sup} |F(x) - G(x)|
-$$<p>$\,$ is the Kolmogorov-Smirnov metric.</p>
-<p>: Then we say that the boostrap is consistent for $T$ and $\rho$, if</p>
+$$<p>$\quad$ is the Kolmogorov-Smirnov metric.</p>
+<ul>
+<li>Then we say that the boostrap is consistent for $T$ and $\rho$, if</li>
+</ul>
 $$
 \rho (H_{n, boot}, H_{n}) \rightarrow 0, \quad \text{in probability}
-$$
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>$&lt; THM : Bickel \, and \, Freedman &gt;$</p>
-<p>: If $X_1, ..., X_n \sim F$ are iid and $\mathbb{E}(X_{1}^{2}) \lneq \infty$,<br />
-$\,$ then for $T_{mean}(x_1, ..., X_n, F) = \sqrt{n}(\bar X_n - \mu)$, the bootstrap is consistent in the Kolmogorov and Wasserstein sense.</p>
+$$<hr />
 
 </div>
 </div>
@@ -18358,10 +18354,27 @@ $\,$ then for $T_{mean}(x_1, ..., X_n, F) = \sqrt{n}(\bar X_n - \mu)$, the boots
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<dl>
-<dt>When does bootstrap fail?</dt>
-<dd>Generally it fails to be consistent for functionals $T$ that do not satisfy the CLT. This is the case for heavy tailed data.</dd>
-</dl>
+<p>&lt; THM : Bickel and Freedman &gt;</p>
+<ul>
+<li>If $X_1, ..., X_n \sim F$ are iid and $\mathbb{E}(X_{1}^{2}) \lneq \infty$</li>
+</ul>
+<p>$\\ \quad$ then for $T_{mean}(x_1, ..., X_n, F) = \sqrt{n}(\bar X_n - \mu)$, the bootstrap is consistent in the Kolmogorov and Wasserstein sense.</p>
+<hr />
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>When does bootstrap fail?</p>
+<ul>
+<li>Generally it fails to be consistent for functionals $T$ that do not satisfy the CLT. This is the case for heavy tailed data.</li>
+</ul>
 
 </div>
 </div>
