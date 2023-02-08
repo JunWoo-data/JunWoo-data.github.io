@@ -11,7 +11,7 @@ This page contains my course work from STATS 509 (Winter 2023)
 - Programming language: R
 - Topics: Modeling univariate distribution, Modeling extremes, Bootstrap
 
-## Study -
+## Study
 
 1. Modeling univariate distribution 
 2. Modeling extremes 
