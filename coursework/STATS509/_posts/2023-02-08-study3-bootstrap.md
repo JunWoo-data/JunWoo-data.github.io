@@ -27,8 +27,8 @@ Some intuition:
   That is, for large samples, $\hat F_n (x) \approx F(x)$
 
 Let's consider following resampling method: 
-- Generate a random sample $X_1^*, ..., X_n^*$ from $\hat F_n$. This will be called a bootstrap sample from $X_1, ..., X_n$. This is equivalent to drawing with replacement from $X_1, ..., X_n$ 
-- Compute $\hat \theta^* = S(X_1^*, ..., X_n^*)$
+- Generate a random sample $$X_1^*, ..., X_n^*$$ from $$\hat F_n$$. This will be called a bootstrap sample from $$X_1, ..., X_n$$. This is equivalent to drawing with replacement from $$X_1, ..., X_n$$ 
+- Compute $$\hat \theta^* = S(X_1^*, ..., X_n^*)$$
 - Repeate the above steps independently to generate B independent bootstrap samples    
       
   $$ 
