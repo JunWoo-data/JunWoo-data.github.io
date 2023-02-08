@@ -248,7 +248,7 @@ ggplot(normal_interval_values, aes(x = value, color = category)) +
 
 
     
-![png](3.bootstrap_files/3.bootstrap_22_1.png)
+![png](/assets/images/coursework/STATS509/3.bootstrap_files/3.bootstrap_22_1.png)
     
 
 
@@ -361,7 +361,7 @@ ggplot(t_interval_values, aes(x = value, color = category)) +
 
 
     
-![png](3.bootstrap_files/3.bootstrap_32_1.png)
+![png](/assets/images/coursework/STATS509/3.bootstrap_files/3.bootstrap_32_1.png)
     
 
 
