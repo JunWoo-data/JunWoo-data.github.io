@@ -15,4 +15,4 @@ This page contains my course work from STATS 509 (Winter 2023)
 
 1. Modeling univariate distribution 
 2. Modeling extremes 
-3. [Bootstrap](https://junwoo-data.github.io/coursework/STATS509/study/bootstrap.html/)
+3. [Bootstrap](https://junwoo-data.github.io/coursework/STATS509/study/bootstrap/)
