@@ -18,6 +18,12 @@ feature_row:
     url: "/coursework/EECS504/hw2/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw3/hw3_upload_51_0.png
+    title: "3. Introduction to Machine Learning"
+    excerpt: "Topic: KNN, Multinomial logistic classification"
+    url: "/coursework/EECS504/hw3/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
