@@ -24,6 +24,12 @@ feature_row:
     url: "/coursework/EECS504/hw3/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw4/p1_(c).png
+    title: "4. Backpropagation"
+    excerpt: "Topics: Backpropagation, Multi-layer perceptron"
+    url: "/coursework/EECS504/hw4/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
