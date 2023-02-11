@@ -36,7 +36,7 @@ feature_row:
     url: "/coursework/EECS504/hw5/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/coursework/EECS504/hw6/resnet_architecture.png
+  - image_path: /assets/images/coursework/EECS504/hw6/gan_fig.png
     title: "6. Image Synthesis"
     excerpt: "Topics: pix2pix, conditional GAN, U-net, receptive field, style transfer"
     url: "/coursework/EECS504/hw6/"
