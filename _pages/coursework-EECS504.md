@@ -30,6 +30,12 @@ feature_row:
     url: "/coursework/EECS504/hw4/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw5/resnet_architecture.png
+    title: "5. Scene Recognition"
+    excerpt: "Topics: MiniVGG, MiniVGG-BN, Residual Networks"
+    url: "/coursework/EECS504/hw5/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
