@@ -36,6 +36,12 @@ feature_row:
     url: "/coursework/EECS504/hw5/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw6/resnet_architecture.png
+    title: "6. Image Synthesis"
+    excerpt: "Topics: pix2pix, conditional GAN, U-net, receptive field, style transfer"
+    url: "/coursework/EECS504/hw6/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
