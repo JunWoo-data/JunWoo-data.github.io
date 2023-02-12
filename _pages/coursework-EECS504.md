@@ -42,6 +42,12 @@ feature_row:
     url: "/coursework/EECS504/hw6/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw7_1/fcos_architecture.png
+    title: "7-1. Object Detection"
+    excerpt: "Topics: Object detection, FCOS, FPN, GIoU, BCE, mAP"
+    url: "/coursework/EECS504/hw7-1/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
