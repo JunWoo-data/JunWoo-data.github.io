@@ -48,6 +48,12 @@ feature_row:
     url: "/coursework/EECS504/hw7-1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw7_2/iou.png
+    title: "7-2. Inference Components and Evaluation Metrics for Object Detection"
+    excerpt: "Topics: Object detection, IoU, NMS, mAP"
+    url: "/coursework/EECS504/hw7-2/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
