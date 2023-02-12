@@ -44,20 +44,26 @@ feature_row:
     btn_class: "btn--primary"	
   - image_path: /assets/images/coursework/EECS504/hw7_1/fcos_architecture.png
     title: "7-1. Object Detection"
-    excerpt: "Topics: Object detection, FCOS, FPN, GIoU, BCE, mAP"
+    excerpt: "Topics: Object detection, FCOS, FPN(Feature Pyramid Network), GIoU(Generalized Intersection-over-Union), BCE(Binary Cross Entropy), mAP(mean Average Precision)"
     url: "/coursework/EECS504/hw7-1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/coursework/EECS504/hw7_2/iou.png
     title: "7-2. Inference Components and Evaluation Metrics for Object Detection"
-    excerpt: "Topics: Object detection, IoU, NMS, mAP"
+    excerpt: "Topics: Object detection, IoU(Intersection-over-Union), NMS(Non-Maximum Suppression), mAP(mean Average Precision)"
     url: "/coursework/EECS504/hw7-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/coursework/EECS504/hw8/panorama_stiching.png
     title: "8. Panoramic Stiching"
-    excerpt: "Topics: ORB features, Homography, RANSAC"
+    excerpt: "Topics: ORB features, Homography, RANSAC(RAndom SAmple Consensus)"
     url: "/coursework/EECS504/hw8/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw9/contrastive_architecture.png
+    title: "9. Representation Learning"
+    excerpt: "Topics: Self-supervised learning, Autoencoders, Representation learning, CLIP(Contrastive Language-Image Pre-training)"
+    url: "/coursework/EECS504/hw9/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
 ---
