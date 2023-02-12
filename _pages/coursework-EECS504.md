@@ -54,6 +54,12 @@ feature_row:
     url: "/coursework/EECS504/hw7-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw8/panorama_stiching.png
+    title: "8. Panoramic Stiching"
+    excerpt: "Topics: ORB features, Homography, RANSAC"
+    url: "/coursework/EECS504/hw8/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
