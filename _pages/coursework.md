@@ -18,7 +18,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
 
 ## STATS 500 - Statistical Learning I: Regression
 
