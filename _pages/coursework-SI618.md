@@ -28,7 +28,7 @@ feature_row:
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Statsmodels
 
 # Homeworks
 
