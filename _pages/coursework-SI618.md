@@ -12,9 +12,15 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/coursework/SI618/hw2/hw2_upload_221_1.png
-    title: "1.  More Data Manipulation"
+    title: "2. More Data Manipulation"
     excerpt: "Topic: Data manipulation, EDA(Exploratory Data Analysis)"
     url: "/coursework/SI618/hw2/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/coursework/SI618/hw3/hw3_upload_45_0.png
+    title: "3. Data Visualization"
+    excerpt: "Topic: Data visualization"
+    url: "/coursework/SI618/hw3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
