@@ -11,14 +11,14 @@ author_profile: true
 This page contains my course work from EEECS 504 (Fall 2022)
 
 - Programming language: Python
-- Frameworks/Library: Pytorch, SciPy
+- Frameworks / Library: Pytorch, SciPy
 
 ## [SI 618 - Data Manipulation and Analysis](https://junwoo-data.github.io/coursework/SI618/)
 
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks/Library: Pandas, Numpy, Matplotlib, Seaborn
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn
 
 ## STATS 500 - Statistical Learning I: Regression
 
@@ -31,7 +31,7 @@ This page contains my course work from STATS 500 (Fall 2022)
 This page contains my course work from STATS 503 (Winter 2023)
 
 - Programming language: Python
-- Frameworks/Library:
+- Frameworks / Library:
 - Topics: 
     - Classification
         - Generative method: LDA, QDA, Naive Bayes 
@@ -42,7 +42,7 @@ This page contains my course work from STATS 503 (Winter 2023)
 This page contains my course work from STATS 504 (Winter 2023)
 
 - Programming language: Python
-- Frameworks/Library:
+- Frameworks / Library:
 - Topics: Regression, GLM, Survival analysis, MCA
 
 ## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STATS509/)
