@@ -35,12 +35,18 @@ feature_row:
     url: "/coursework/SI618/hw5/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/coursework/SI618/hw6/hw6_upload_178_0.png
+    title: "6. Machine Learning 1: Linear regression, PCA, and Clustering"
+    excerpt: "Topic: Linear Regression, PCA, Agglomerative clustering, K-means clustering, t-SNE"
+    url: "/coursework/SI618/hw6/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Statsmodels, NLTK, spaCy
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
 
 # Homeworks
 
