@@ -66,6 +66,12 @@ feature_row:
     url: "/coursework/EECS504/hw9/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/EECS504/hw10/multi-head_layer.png
+    title: "10. Diffusion Model and Epipolar Geometry"
+    excerpt: "Topics: Diffusion model, Multi-head attention, Fundamental matrix, Homogeneous coordinates"
+    url: "/coursework/EECS504/hw10/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from EEECS 504 (Fall 2022)
