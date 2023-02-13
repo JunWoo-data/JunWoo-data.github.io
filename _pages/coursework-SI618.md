@@ -41,12 +41,18 @@ feature_row:
     url: "/coursework/SI618/hw6/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/coursework/SI618/hw7/hw7_upload_225_0.png
+    title: "7. Machine Learning 2: Classification"
+    excerpt: "Topic: K-NN, Linear SVM, RBF SVM, Gaussian process classifier, Decision tree classifier, Randomforest classifer, Neural network, AdaBoost classifer, Gaussian naive bayes classifer, PCA, t-SNE"
+    url: "/coursework/SI618/hw7/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
 
 # Homeworks
 
