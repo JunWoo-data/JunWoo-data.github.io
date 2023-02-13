@@ -23,6 +23,12 @@ feature_row:
     url: "/coursework/SI618/hw3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/coursework/SI618/hw4/hw4_upload_25_0.png
+    title: "4.Visualization, Correlation, and Linear Models"
+    excerpt: "Data visualization, Correlation, Linear models"
+    url: "/coursework/SI618/hw4/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 This page contains my course work from SI 618 (Winter 2022)
