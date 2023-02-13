@@ -11,6 +11,12 @@ feature_row:
     url: "/coursework/SI618/hw1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/SI618/hw2/hw2_upload_221_1.png
+    title: "1.  More Data Manipulation"
+    excerpt: "Topic: Data manipulation, EDA(Exploratory Data Analysis)"
+    url: "/coursework/SI618/hw2/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 This page contains my course work from SI 618 (Winter 2022)
