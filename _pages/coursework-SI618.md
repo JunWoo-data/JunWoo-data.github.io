@@ -24,9 +24,15 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/coursework/SI618/hw4/hw4_upload_25_0.png
-    title: "4.Visualization, Correlation, and Linear Models"
-    excerpt: "Data visualization, Correlation, Linear models"
+    title: "4. Visualization, Correlation, and Linear Models"
+    excerpt: "Topic: Data visualization, Correlation, Linear models"
     url: "/coursework/SI618/hw4/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/coursework/SI618/hw5/hw5_upload_87_0.png
+    title: "5. Natural Language Processing"
+    excerpt: "Topic: NLP(Natural Language Processing)"
+    url: "/coursework/SI618/hw5/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -34,7 +40,7 @@ feature_row:
 This page contains my course work from SI 618 (Winter 2022)
 
 - Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Statsmodels
+- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, SciPy, Statsmodels, NLTK, spaCy
 
 # Homeworks
 
