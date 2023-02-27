@@ -33,12 +33,12 @@ This page contains my course work from STATS 500 (Fall 2022)
 
 - Programming language: R
 
-## STATS 503 - Statistical Learning II: Modern Multivariate Analysis (In progress)
+## [STATS 503 - Statistical Learning II: Modern Multivariate Analysis (In progress)](https://junwoo-data.github.io/coursework/STAT503/)
 
 This page contains my course work from STATS 503 (Winter 2023)
 
 - Programming language: Python
-- Frameworks / Library:
+- Frameworks / Library: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
 - Topics: 
     - Classification
         - Generative method: LDA, QDA, Naive Bayes 
