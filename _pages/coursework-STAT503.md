@@ -11,6 +11,12 @@ feature_row:
     url: "/coursework/STAT503/hw1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/STAT503/hw1/hw2_upload_35_0.png
+    title: "1. LDA, QDA, Naive Bayes"
+    excerpt: "Topic: EDA(Exploratory Data Analysis), LDA(Linear Discriminant Analysis), QDA(Quadratic Discriminant Analysis), Naive Bayes"
+    url: "/coursework/STAT503/hw2/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from STAT 503 (Winter 2023)
@@ -19,7 +25,7 @@ This page contains my course work from STAT 503 (Winter 2023)
 - Frameworks / Library: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
 - Topics: 
     - Classification
-        - Generative method: LDA, QDA, Naive Bayes 
+        - Generative method: LDA(Linear Discriminant Analysis), QDA(Quadratic Discriminant Analysis), Naive Bayes 
         - Discriminate method: KNN, Logistic regression
 
 # Homeworks
