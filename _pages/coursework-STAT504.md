@@ -11,6 +11,12 @@ feature_row:
     url: "/coursework/STAT504/hw1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/STAT504/hw2_thm.png
+    title: "1. Association between demographic variables and birth counts by counties"
+    excerpt: "Topic: GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), PCA(Principal Component Analysis), Score test"
+    url: "/coursework/STAT504/hw2/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from STATS 504 (Winter 2023)
