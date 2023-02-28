@@ -1,17 +1,17 @@
 ---
 layout: single
 title: "STATS 509 - Statistical Models and Methods for Financial Data (In progress)"
-permalink: /coursework/STATS509/
+permalink: /coursework/STAT509/
 comments: true
 author_profile: true
 feature_row:
-  - image_path: /assets/images/coursework/STATS509/hw1/hw1_thm.png
+  - image_path: /assets/images/coursework/STAT509/hw1/hw1_thm.png
     title: "HW1"
     excerpt: "Topic: Return, Log return, ACF(Auto Correlation Function), QQ plot, VaR(Value at Risk), Coupon bond"
     url: "/coursework/STAT509/hw1/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/coursework/STATS509/hw2/hw2_upload_45_0.png
+  - image_path: /assets/images/coursework/STAT509/hw2/hw2_upload_45_0.png
     title: "HW2"
     excerpt: "Topic: Mixture model, Method of moment, Kurtosis, Skewness, KDE(Kernal Density Estimator), MLE(Maximum Likelihood Estimation)"
     url: "/coursework/STAT509/hw2/"
@@ -37,7 +37,7 @@ This page contains my course work from STATS 509 (Winter 2023)
 
 1. Modeling univariate distribution 
 2. Modeling extremes 
-3. [Bootstrap](https://junwoo-data.github.io/coursework/STATS509/study/bootstrap/)
+3. [Bootstrap](https://junwoo-data.github.io/coursework/STAT509/study/bootstrap/)
 
 ***
 

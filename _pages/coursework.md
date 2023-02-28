@@ -67,7 +67,7 @@ This page contains my course work from STATS 504 (Winter 2023)
 - **Topics**: Regression, GLM, GEE, Survival analysis, MCA
 
 
-## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STATS509/)
+## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STAT509/)
 
 This page contains my course work from STATS 509 (Winter 2023)
 
