@@ -5,7 +5,7 @@ permalink: /coursework/STATS509/
 comments: true
 author_profile: true
 feature_row:
-  - image_path: /assets/images/coursework/STAT509/hw1/hw1_upload_15_0.png
+  - image_path: /assets/images/coursework/STAT509/hw1/hw1_thm.png
     title: "HW1"
     excerpt: "Topic: Return, Log return, ACF(Auto Correlation Function), QQ plot, VaR(Value at Risk), Coupon bond"
     url: "/coursework/STAT509/hw1/"
