@@ -24,6 +24,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
     - **Video classification**: 3D CNN
     - **Generative models**: GANs, VAEs(Variational AutoEncoders), Autoregressive models, Diffusion, Vector-quantized VAEs
     - **Recent architectures**: NeRF(Neural Radience Field), BERT(Bidirectional Encoder Representations from Transformers), Image GPT, DETR(Detection Transformer)
+
 ***
 
 ## [SI 618 - Data Manipulation and Analysis](https://junwoo-data.github.io/coursework/SI618/)
@@ -37,6 +38,7 @@ This page contains my course work from SI 618 (Winter 2022)
     - **Clustering**: K-means, T-SNE, Agglomerative clustering 
     - **Classification**: K-NN, Linear SVM(Support Vector Machine), RBF(Radial Basis Function kernel) SVM, Gaussian process classifer, Decision tree, Random forest, Neural network, DadaBoost classifier, Gaussian naive bayes classifier
     - **Others**: EDA(Exploratory Data Analysis), Data manipulation, Data visualization, Linear regression, NLP(natural Language Process)  
+
 ***
 
 ## STATS 500 - Statistical Learning I: Regression
@@ -44,6 +46,7 @@ This page contains my course work from SI 618 (Winter 2022)
 This page contains my course work from STATS 500 (Fall 2022)
 
 - Programming language: R
+
 ***
 
 ## [STATS 503 - Statistical Learning II: Modern Multivariate Analysis (In progress)](https://junwoo-data.github.io/coursework/STAT503/)
@@ -56,6 +59,7 @@ This page contains my course work from STATS 503 (Winter 2023)
     - **Classification**
         - **Generative method**: LDA, QDA, Naive Bayes 
         - **Discriminate method**: KNN, Logistic regression
+
 ***
 
 ## STATS 504 - Practice and Communication in Applied Statistics (In progress)
@@ -65,6 +69,7 @@ This page contains my course work from STATS 504 (Winter 2023)
 - **Programming language**: Python
 - **Frameworks / Library**:
 - **Topics**: Regression, GLM, GEE, Survival analysis, MCA
+
 ***
 
 ## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STATS509/)
@@ -80,6 +85,7 @@ This page contains my course work from STATS 509 (Winter 2023)
     - **Portfolio theory**: Markowitz variance-optimal portfolios, CAPM, Fama-French factor model
     - **Non-linear time series**: ARCH, GARCH, ARMA-GARCH
     - **Risk quantification**: Measure of risk, Estimation of VaR and Expected Shortfall, Resampling and backtesting 
+
 ***
 
 ## EECS 484 - Database Management Systems 
@@ -87,6 +93,7 @@ This page contains my course work from STATS 509 (Winter 2023)
 This page contains my course work from EECS 484 (Fall 2022)
 
 - Programming language: SQL 
+
 ***
 
 ## EECS 403 - Data Structures for Scientists and Engineers 
@@ -94,6 +101,7 @@ This page contains my course work from EECS 484 (Fall 2022)
 This page contains my course work from EECS 403 (Winter 2021)
 
 - Programming language: C++ 
+
 ***
 
 ## EECS 402 - Programming for Scientists and Engineers
