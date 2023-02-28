@@ -24,12 +24,15 @@ This page contains my course work from STATS 509 (Winter 2023)
     - Portfolio theory: Markowitz variance-optimal portfolios, CAPM, Fama-French factor model
     - Non-linear time series: ARCH, GARCH, ARMA-GARCH
     - Risk quantification: Measure of risk, Estimation of VaR and Expected Shortfall, Resampling and backtesting
+
+***
 # Study
 
 1. Modeling univariate distribution 
 2. Modeling extremes 
 3. [Bootstrap](https://junwoo-data.github.io/coursework/STATS509/study/bootstrap/)
 
+***
 # Homeworks
 
 {% include feature_row %}
