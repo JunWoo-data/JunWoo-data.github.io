@@ -58,7 +58,7 @@ This page contains my course work from STATS 503 (Winter 2023)
         - **Discriminate method**: KNN, Logistic regression
 
 
-## STATS 504 - Practice and Communication in Applied Statistics (In progress)
+## [STATS 504 - Practice and Communication in Applied Statistics (In progress)](https://junwoo-data.github.io/coursework/STAT504/)
 
 This page contains my course work from STATS 504 (Winter 2023)
 
