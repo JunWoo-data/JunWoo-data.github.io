@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "STATS 509 - Statistical Models and Methods for Financial Data (In progress)"
-permalink: /coursework/STAT509/
+title: "STATS 504 - Practice and Communication in Applied Statistics (In progress)"
+permalink: /coursework/STAT504/
 comments: true
 author_profile: true
 feature_row:
