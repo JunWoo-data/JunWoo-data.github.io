@@ -12,6 +12,19 @@ This page contains my course work from EEECS 504 (Fall 2022)
 
 - Programming language: Python
 - Frameworks / Library: Pytorch, SciPy
+- Topics:
+    - Linear clssifiers
+    - Gradient descent: Batch gradient descent, Stochastic gradient descent, Gradient descent with momentum, Gradient descent with RMSProp, Adam
+    - Fully-connected networks
+    - Convolutional networks: Alexnet, VGG, ResNet, Encoder-decoder architecture,
+    - Recurrent networks: RNN, LSTMs(Long Short Term Memory)
+    - Attention and transformers: Self-attention, Multi-head attention, Transformer, ViT(Vision Transformer)
+    - Object detection: R-CNN, Fast R-CNN, Faster R-CNN, YOLO, FCOS,
+    - Image segmentation
+    - Video classification: 3D CNN
+    - Generative models: GANs, VAEs(Variational AutoEncoders), Autoregressive models, Diffusion, Vector-quantized VAEs
+    - Recent architectures: NeRF(Neural Radience Field), BERT(Bidirectional Encoder Representations from Transformers), Image GPT, DETR(Detection Transformer)
+
 
 ## [SI 618 - Data Manipulation and Analysis](https://junwoo-data.github.io/coursework/SI618/)
 
