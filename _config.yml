@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Youngjun Woo"
-  avatar           : "/assets/images/sample1_stary_night2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sample1_stary_night2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. in Data Science | University of Michigan"
   location         : "Ann Arbor, Michigan"
   email            : "yjwoo@umich.edu"
