@@ -51,17 +51,15 @@ feature_row:
 
 This page contains my course work from SI 618 (Winter 2022)
 
-- Programming language: Python
-- Frameworks / Library: Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
-- Topics: 
-    - EDA(Exploratory Data Analysis), Data manipulation, Data visualization, 
-    - Linear regression 
-    - NLP(natural Language Process) 
-    - PCA
-    - Clustering: K-means, T-SNE, Agglomerative clustering 
-    - Classification: K-NN, Linear SVM(Support Vector Machine), RBF(Radial Basis Function kernel) SVM, Gaussian process classifer, Decision tree, Random forest, Neural network, AdaBoost classifier, Gaussian naive bayes classifier
-
+- **Programming language**: Python
+- **Frameworks / Library**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Statsmodels,  NLTK, spaCy
+- **Topics**: 
+    - **Dimension reduction**: PCA(Principal Component Analysis)
+    - **Clustering**: K-means, T-SNE, Agglomerative clustering 
+    - **Classification**: K-NN, Linear SVM(Support Vector Machine), RBF(Radial Basis Function kernel) SVM, Gaussian process classifer, Decision tree, Random forest, Neural network, DadaBoost classifier, Gaussian naive bayes classifier
+    - **Others**: EDA(Exploratory Data Analysis), Data manipulation, Data visualization, Linear regression, NLP(natural Language Process)  
 ***
+
 # Homeworks
 
  {% include feature_row %}

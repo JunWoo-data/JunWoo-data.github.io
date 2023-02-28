@@ -27,14 +27,14 @@ feature_row:
 
 This page contains my course work from STAT 503 (Winter 2023)
 
-- Programming language: Python
-- Frameworks / Library: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
-- Topics: 
-    - Classification
-        - Generative method: LDA(Linear Discriminant Analysis), QDA(Quadratic Discriminant Analysis), Naive Bayes 
-        - Discriminate method: KNN, Logistic regression
-
+- **Programming language**: Python
+- **Frameworks / Library**: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
+- **Topics**: 
+    - **Classification**
+        - **Generative method**: LDA, QDA, Naive Bayes 
+        - **Discriminate method**: KNN, Logistic regression
 ***
+
 # Homeworks
 
  {% include feature_row %}
