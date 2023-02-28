@@ -34,6 +34,7 @@ This page contains my course work from STAT 503 (Winter 2023)
         - Generative method: LDA(Linear Discriminant Analysis), QDA(Quadratic Discriminant Analysis), Naive Bayes 
         - Discriminate method: KNN, Logistic regression
 
+***
 # Homeworks
 
  {% include feature_row %}
