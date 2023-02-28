@@ -90,6 +90,7 @@ This page contains my course work from EEECS 504 (Fall 2022)
     - **Video classification**: 3D CNN
     - **Generative models**: GANs, VAEs(Variational AutoEncoders), Autoregressive models, Diffusion, Vector-quantized VAEs
     - **Recent architectures**: NeRF(Neural Radience Field), BERT(Bidirectional Encoder Representations from Transformers), Image GPT, DETR(Detection Transformer)
+    
 ***
 
 # Homeworks

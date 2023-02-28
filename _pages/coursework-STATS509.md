@@ -30,6 +30,7 @@ This page contains my course work from STATS 509 (Winter 2023)
     - **Portfolio theory**: Markowitz variance-optimal portfolios, CAPM, Fama-French factor model
     - **Non-linear time series**: ARCH, GARCH, ARMA-GARCH
     - **Risk quantification**: Measure of risk, Estimation of VaR and Expected Shortfall, Resampling and backtesting 
+    
 ***
 
 # Study

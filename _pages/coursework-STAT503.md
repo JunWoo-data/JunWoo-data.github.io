@@ -33,6 +33,7 @@ This page contains my course work from STAT 503 (Winter 2023)
     - **Classification**
         - **Generative method**: LDA, QDA, Naive Bayes 
         - **Discriminate method**: KNN, Logistic regression
+        
 ***
 
 # Homeworks

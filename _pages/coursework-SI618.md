@@ -58,6 +58,7 @@ This page contains my course work from SI 618 (Winter 2022)
     - **Clustering**: K-means, T-SNE, Agglomerative clustering 
     - **Classification**: K-NN, Linear SVM(Support Vector Machine), RBF(Radial Basis Function kernel) SVM, Gaussian process classifer, Decision tree, Random forest, Neural network, DadaBoost classifier, Gaussian naive bayes classifier
     - **Others**: EDA(Exploratory Data Analysis), Data manipulation, Data visualization, Linear regression, NLP(natural Language Process)  
+    
 ***
 
 # Homeworks
