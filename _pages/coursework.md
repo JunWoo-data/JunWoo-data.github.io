@@ -82,21 +82,21 @@ This page contains my course work from STATS 509 (Winter 2023)
     - **Risk quantification**: Measure of risk, Estimation of VaR and Expected Shortfall, Resampling and backtesting 
 
 
-## EECS 484 - Database Management Systems 
+## [EECS 484 - Database Management Systems](https://github.com/JunWoo-data/UoM-EECS484) 
 
 This page contains my course work from EECS 484 (Fall 2022)
 
 - Programming language: SQL 
 
 
-## EECS 403 - Data Structures for Scientists and Engineers 
+## [EECS 403 - Data Structures for Scientists and Engineers](https://github.com/JunWoo-data/UoM-EECS403) 
 
 This page contains my course work from EECS 403 (Winter 2021)
 
 - Programming language: C++ 
 
 
-## EECS 402 - Programming for Scientists and Engineers
+## [EECS 402 - Programming for Scientists and Engineers](https://gitfront.io/r/user-1831267/MPjsgPLStqCB/UoM-EECS402/)
 
 This page contains my course work from EECS 402 (Fall 2021)
 
