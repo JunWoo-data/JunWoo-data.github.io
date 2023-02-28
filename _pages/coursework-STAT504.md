@@ -16,11 +16,11 @@ feature_row:
 This page contains my course work from STATS 504 (Winter 2023)
 
 - **Programming language**: Python
-- **Frameworks / Library**:
+- **Frameworks / Library**: Numpy, Pandas, Seaborn, Matplotlib, Statmodels, Lifelines
 - **Topics**: Regression, GLM, GEE, Survival analysis, MCA
 
 ***
 
-# Homeworks 
+# Homeworks  ddd
 
 {% include feature_row %}
