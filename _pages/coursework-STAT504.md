@@ -27,6 +27,6 @@ This page contains my course work from STATS 504 (Winter 2023)
 
 ***
 
-# Homeworks
+# Homeworks d
 
 {% include feature_row %}
