@@ -24,20 +24,20 @@ continuing to accelerate professional development.
 I have a deep understanding in the areas of statistics, economics, and mathematics. Possess key insights into end-to-end data pipelines, with the ability to transform, process, and optimize data delivery. I also have a demonstrated skill and expertise applying complex statistical and machine learning models to resolve business challenges of all complexities.
         
 Some of the core strengths I bring to the table include:
-- Data Mining & Analysis
 - Project Management
-- Enterprise Solutions
-- Analytics Platforms
-- Machine Learning
-- Predictive Modeling
+- Complex Problem-Solving
+- Cross-Functional Collaboration
 - Dashboard Development
+- Data Mining & Analysis
+- Machine Learning
+- Deep Learning
+- Predictive Modeling
 - Regression & Multivariate Analysis
 - Dimension Reduction Analysis
 - Survival Analysis
 - Nonparametric Statistics
 - Time Series Analysis
-- Cross-Functional Collaboration
-- Complex Problem-Solving
+- Bayesian Statistics
 
 I am interested in thinking about what information users will need and visualizing it by analyzing related data through statistical and machine learning models.
       
