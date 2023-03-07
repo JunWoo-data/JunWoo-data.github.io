@@ -42,9 +42,9 @@ Some of the core strengths I bring to the table include:
 I am interested in thinking about what information users will need and visualizing it by analyzing related data through statistical and machine learning models.
       
 ### Education
-- University of Michigan (Expected 2023): M.S. in Data Science (GPA 3.6/4.0)
-- Yonsei University (2020): B.A. Double major in Statistics & Economics (GPA 4.0/4.5)/ B.S. Minor in Mathematics 
-- University of California, Berkeley (2019): Undergraduate exchange studies, focusing on Mathematics (GPA 3.85/4.0)
+- **University of Michigan (Expected 2023)**: M.S. in Data Science (GPA 3.6/4.0)
+- **Yonsei University (2020)**: B.A. Double major in Statistics & Economics (GPA 4.0/4.5)/ B.S. Minor in Mathematics 
+- **University of California, Berkeley (2019)**: Undergraduate exchange studies, focusing on Mathematics (GPA 3.85/4.0)
      
 ### Technical Skills
 Python, R, SQL, C++, Julia, JavaScript
