@@ -51,10 +51,10 @@ Python, R, SQL, C++, Julia, JavaScript
      
 ### Coursework
 These are courseworks from University of Michigan, Yonsei University, and University of California, Berkeley.
-- EECS: Data Structure and Algorithm, Database Management System, Computer Vision, Matrix Method for Machine Learning.
-- Statistics: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics, Mathematical Statistics.
-- Economics: Microeconomics, Macroeconomics, International Finance, Game Theory, Financial Engineering, Law and Economics
-- Mathematics:  Analysis, Abstract Algebra, Differential Geometry, Topology, Linear Algebra
+- **EECS**: Data Structure and Algorithm, Database Management System, Computer Vision, Matrix Method for Machine Learning.
+- **Statistics**: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics, Mathematical Statistics.
+- **Economics**: Microeconomics, Macroeconomics, International Finance, Game Theory, Financial Engineering, Law and Economics
+- **Mathematics**: Analysis, Abstract Algebra, Differential Geometry, Topology, Linear Algebra
 
 This page ([Coursework](https://junwoo-data.github.io/coursework/)) contains various worked-out problem sets from my courses at University of Michigan. I am constantly uploading contents.
 
