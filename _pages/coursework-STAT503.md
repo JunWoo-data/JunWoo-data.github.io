@@ -31,8 +31,11 @@ This page contains my course work from STAT 503 (Winter 2023)
 - **Frameworks / Library**: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
 - **Topics**: 
     - **Classification**
-        - **Generative method**: LDA, QDA, Naive Bayes 
-        - **Discriminate method**: KNN, Logistic regression
+        - **Generative method**: 
+          - **Parametric method**: LDA, QDA, Naive Bayes 
+        - **Discriminate method**: 
+          - **Parametric method**: Logistic regression
+          - **Nonparametric method**: KNN, Tree based methods(Single tree, Bagging, Random forests, Boosting)
         
 ***
 
