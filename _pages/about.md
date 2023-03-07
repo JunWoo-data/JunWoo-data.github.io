@@ -50,7 +50,7 @@ I am interested in thinking about what information users will need and visualizi
 Python, R, SQL, C++, Julia, JavaScript
      
 ### Coursework
-These are courseworks from University of Michigan and Yonsei University.
+These are courseworks from University of Michigan, Yonsei University, and University of California, Berkeley.
 - EECS: Data Structure and Algorithm, Database Management System, Computer Vision, Matrix Method for Machine Learning.
 - Statistics: Linear Regression, Multivariate Analysis, Statistics for Financial Data, Bayesian Statistics, Time Series Analysis, Nonparametric Statistics, Mathematical Statistics.
 - Economics: Microeconomics, Macroeconomics, International Finance, Game Theory, Financial Engineering, Law and Economics
