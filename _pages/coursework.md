@@ -66,7 +66,7 @@ This page contains my course work from STATS 503 (Winter 2023)
 
 This page contains my course work from STATS 504 (Winter 2023)
 
-- **Programming language**: Python
+- **Programming language**: Python, R
 - **Frameworks / Library**:
 - **Topics**: Linear regression, Dimension reduction regression, Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis
 
