@@ -68,7 +68,7 @@ This page contains my course work from STATS 504 (Winter 2023)
 
 - **Programming language**: Python
 - **Frameworks / Library**:
-- **Topics**: Regression, GLM, GEE, Survival analysis, MCA
+- **Topics**: Linear regression, Dimension reduction regression, Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis
 
 
 ## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STAT509/)
