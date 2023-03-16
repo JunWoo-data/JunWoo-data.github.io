@@ -30,6 +30,7 @@ This page contains my course work from STAT 503 (Winter 2023)
 - **Programming language**: Python
 - **Frameworks / Library**: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
 - **Topics**: 
+    - **Regression**: Regression spline, Smoothing spline
     - **Classification**
         - **Generative method**: 
           - **Parametric method**: LDA, QDA, Naive Bayes 
