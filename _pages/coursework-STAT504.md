@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "STATS 504 - Practice and Communication in Applied Statistics (In progress)"
+title: "STATS 504 - Practice and Communication in Applied Statistics"
 permalink: /coursework/STAT504/
 comments: true
 author_profile: true
