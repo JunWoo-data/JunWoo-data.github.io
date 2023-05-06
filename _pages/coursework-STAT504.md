@@ -35,13 +35,19 @@ feature_row:
     url: "/coursework/STAT504/hw5/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/STAT504/hw6_thm.png
+    title: "6. Analysis of changes in tail distribution of X-ray flux"
+    excerpt: "Topic: Tail distribution, Pareto tail plot"
+    url: "/coursework/STAT504/hw6/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from STATS 504 (Winter 2023)
 
 - **Programming language**: Python, R
-- **Frameworks / Library**: Numpy, Pandas, Seaborn, Matplotlib, Statmodels, Lifelines
-- **Topics**: Linear regression, Dimension reduction regression, SIR(Sliced Inverse Regression), Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis, Data depth
+- **Frameworks / Library**: Numpy, Pandas, Seaborn, Matplotlib, Statmodels, SciPy, Lifelines
+- **Topics**: Linear regression, Dimension reduction regression, SIR(Sliced Inverse Regression), Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis, Data depth, Tail distribution, Pareto tail plot
 
 
 ***
