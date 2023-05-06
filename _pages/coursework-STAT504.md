@@ -29,13 +29,19 @@ feature_row:
     url: "/coursework/STAT504/hw4/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/STAT504/hw5_thm.png
+    title: "5. Analyze the functional relationship between temperature, salinity and ocean depth"
+    excerpt: "Topic: Data depth"
+    url: "/coursework/STAT504/hw5/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from STATS 504 (Winter 2023)
 
 - **Programming language**: Python, R
 - **Frameworks / Library**: Numpy, Pandas, Seaborn, Matplotlib, Statmodels, Lifelines
-- **Topics**: Linear regression, Dimension reduction regression, SIR(Sliced Inverse Regression), Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis
+- **Topics**: Linear regression, Dimension reduction regression, SIR(Sliced Inverse Regression), Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis, Data depth
 
 
 ***
