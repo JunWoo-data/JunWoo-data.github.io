@@ -23,6 +23,12 @@ feature_row:
     url: "/coursework/STAT504/hw3/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
+  - image_path: /assets/images/coursework/STAT504/hw4_thm.png
+    title: "4. Association between the passage of time and change in plant habitats"
+    excerpt: "Topic: Multilevel regression, AIC"
+    url: "/coursework/STAT504/hw4/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
 ---
 
 This page contains my course work from STATS 504 (Winter 2023)
