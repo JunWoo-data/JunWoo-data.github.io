@@ -62,13 +62,13 @@ This page contains my course work from STATS 503 (Winter 2023)
           - **Nonparametric method**: KNN, Tree based methods(Single tree, Bagging, Random forests, Boosting)
 
 
-## [STATS 504 - Practice and Communication in Applied Statistics (In progress)](https://junwoo-data.github.io/coursework/STAT504/)
+## [STATS 504 - Practice and Communication in Applied Statistics](https://junwoo-data.github.io/coursework/STAT504/)
 
 This page contains my course work from STATS 504 (Winter 2023)
 
 - **Programming language**: Python, R
 - **Frameworks / Library**:
-- **Topics**: Linear regression, Dimension reduction regression, Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis
+- **Topics**: Linear regression, Dimension reduction regression, SIR(Sliced Inverse Regression), Multilevel regression, GLM(Generalized Linear Model), GEE(Generalized Estimating Equations), Survival analysis, MCA(Multiple correspondence analysis), PCA(Principal Components Analysis), Power analysis
 
 
 ## [STATS 509 - Statistical Models and Methods for Financial Data (In progress)](https://junwoo-data.github.io/coursework/STAT509/)
