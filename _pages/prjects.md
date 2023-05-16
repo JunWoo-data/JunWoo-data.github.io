@@ -24,6 +24,7 @@ author_profile: true
 - [1. Prepare data](https://junwoo-data.github.io/projects/sepsis_prediction/1.prepare_data/)
 - [2 - 1. EDA - Dependent variable: Outcome](https://junwoo-data.github.io/projects/sepsis_prediction/2.1.eda_outcome/)
 - [2 - 2. EDA - Demographic variables](https://junwoo-data.github.io/projects/sepsis_prediction/2.2.eda_demographic/)
+- [2 - 3. EDA - Vital and Laboratory variables](https://junwoo-data.github.io/projects/sepsis_prediction/2.2.eda_demographic/)
 
 
 ## Analysis of tennis matches using computer vision (Jan 2023 ~ Present)
