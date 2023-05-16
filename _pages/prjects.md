@@ -5,17 +5,22 @@ permalink: /projects/
 comments: true
 author_profile: true
 ---
+## European soccer match prediction (Jan 2023 ~ In progress)
 
-## ALT-TAB (Tennis club) Dashboard ([Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC))
+
+## Sepsis prediction (Jan 2023 ~ In progress)
+
+
+## Extracting match summary from tennis match videos (Jan 2023 ~ In progress)
+
+## Tennis club database and dashboard (Aug 2022 ~ Jan 2023)
+- [Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC)
 - Purpose (Aug 2022)
 - Visualize data from my tennis club by dashboard (Sep 2022)
 - Create a tool for searching past match records in dashboard (Sep 2022)
 - Make a database management pipeline by Python (Dec 2022)
 - Match video editing and uploading by Python (Jan 2023)
 
-## Extract Tennis Match Summary by Computer Vision
-- Purpose (Sep 2022)
-- 
+## Tennis Ball Detection by TrackNet (Sep 2022 ~ Dec 2022)
 
-## Announcement Bot for KakaoTalk Messenger
-- purpose (Feb 2022)
+
