@@ -20,6 +20,8 @@ author_profile: true
 
 
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
+- [Github page](https://github.com/JunWoo-data/sepsis_prediction)
+- [1. Prepare data](https://junwoo-data.github.io/projects/sepsis_prediction/1.prepare_data/)
 
 
 ## Analysis of tennis matches using computer vision (Jan 2023 ~ Present)
