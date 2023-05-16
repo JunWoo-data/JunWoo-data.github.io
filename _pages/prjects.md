@@ -5,13 +5,13 @@ permalink: /projects/
 comments: true
 author_profile: true
 ---
-## European soccer match prediction using machine learning(Jan 2023 ~ In progress)
+## European soccer match prediction using machine learning (Jan 2023 ~ Present)
 - [1. Load and prepare data](https://junwoo-data.github.io/projects/european_soccer_prediction/1.load_and_prepare_data/)
 
-## Sepsis prediction using machine learning (Jan 2023 ~ In progress)
+## Sepsis prediction using machine learning (Jan 2023 ~ Present)
 
 
-## Analysis of tennis matches using computer vision (Jan 2023 ~ In progress)
+## Analysis of tennis matches using computer vision (Jan 2023 ~ Present)
 
 ## Tennis club database and dashboard using Google BigQuery and Data Studio (Aug 2022 ~ Jan 2023)
 - [Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC)
