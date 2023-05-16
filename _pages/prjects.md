@@ -7,6 +7,7 @@ author_profile: true
 ---
 ## European soccer match prediction using machine learning (Jan 2023 ~ Present)
 - [1. Load and prepare data](https://junwoo-data.github.io/projects/european_soccer_prediction/1.load_and_prepare_data/)
+- [2 - 1. EDA - Match basic information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.1.eda_match_basic/)
 
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
 
