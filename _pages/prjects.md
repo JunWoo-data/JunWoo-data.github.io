@@ -6,6 +6,7 @@ comments: true
 author_profile: true
 ---
 ## European soccer match prediction using machine learning (Jan 2023 ~ Present)
+- [Github page](https://github.com/JunWoo-data/european_soccer_match_prediction/tree/master)
 - [1. Load and prepare data](https://junwoo-data.github.io/projects/european_soccer_prediction/1.load_and_prepare_data/)
 - [2 - 1. EDA - Match basic information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.1.eda_match_basic/)
 - [2 - 2. EDA - Match player information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.2.eda_match_player/)
