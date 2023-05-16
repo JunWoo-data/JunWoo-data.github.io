@@ -26,6 +26,7 @@ author_profile: true
 - [2 - 2. EDA - Demographic variables](https://junwoo-data.github.io/projects/sepsis_prediction/2.2.eda_demographic/)
 - [2 - 3. EDA - Vital and Laboratory variables](https://junwoo-data.github.io/projects/sepsis_prediction/2.3.eda_vital_laboratory/)
 - [3. Train machine learning models to predict sepsis outcome (In progress)](https://junwoo-data.github.io/projects/sepsis_prediction/3.modeling/)
+- [4. Sepsis prediction process dashboard (In progress)](https://junwoo-data.github.io/projects/sepsis_prediction/4.dashboard/)
 
 
 ## Analysis of tennis matches using computer vision (Jan 2023 ~ Present)
