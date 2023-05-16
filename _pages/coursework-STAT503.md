@@ -28,15 +28,12 @@ feature_row:
 This page contains my course work from STAT 503 (Winter 2023)
 
 - **Programming language**: Python
-- **Frameworks / Library**: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn
+- **Frameworks / Library**: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Missingno, Scikit-learn, XGBoost, LightGBM, Optuna, Imbalanced-Learn
 - **Topics**: 
     - **Regression**: Regression spline, Smoothing spline
-    - **Classification**
-        - **Generative method**: 
-          - **Parametric method**: LDA, QDA, Naive Bayes 
-        - **Discriminate method**: 
-          - **Parametric method**: Logistic regression
-          - **Nonparametric method**: KNN, Tree based methods(Single tree, Bagging, Random forests, Boosting)
+    - **Classification**: KNN, LDA, QDA, Naive Bayes, Logistic regression, Kernel logistic regression, Tree based methods(Single tree, Bagging, Random forests, Boosting), SVM(Support Vector Machine), Kernel SVM(Kernel Support Vector Machine), MLP(Multilayer Perceptron)
+    - **Dimensionality reduction**: PCA(Principal Component Analysis), Kernel PCA(Kernel Principal Component Analysis), MDS(Multi-dimensional Scaling), Isomap, LLE(Locally Linear Embedding)
+    - **Clustering**: K-means, Hierarchical clustering, GMM(Gaussian Mixture Models), DBSCAN, Spectral clustering
         
 ***
 
