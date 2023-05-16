@@ -12,6 +12,7 @@ author_profile: true
 - [2 - 3. EDA - Match batting information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.3.eda_match_batting/)
 - [2 - 4. EDA - Match in-game shot information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.4.eda_match_ingame_shot/)
 - [2 - 5. EDA - Player information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.8.eda_player/)
+- [2 - 6. EDA - Team information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.9.eda_team/)
 
 
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
