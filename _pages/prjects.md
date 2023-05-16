@@ -15,6 +15,7 @@ author_profile: true
 - [2 - 6. EDA - Team information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.9.eda_team/)
 - [2 - 7. EDA - Elo rating information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.10.eda_elo_rating/)
 - [3 - 1. Train machine learning models to predict match results](https://junwoo-data.github.io/projects/european_soccer_prediction/3.1.modeling/)
+- [4. European soccer match dashboard (In progress)](https://junwoo-data.github.io/projects/european_soccer_prediction/4.dashboard/)
 
 
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
