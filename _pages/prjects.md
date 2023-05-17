@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## European soccer match prediction using machine learning (Jan 2023 ~ Present)
 - [Link to the Github page](https://github.com/JunWoo-data/european_soccer_match_prediction/tree/master)
-- [0. About the project](https://junwoo-data.github.io/projects/projects/european_soccer_prediction/0.about_project/)
+- [About the project](https://junwoo-data.github.io/projects/european_soccer_prediction/0.about_project/)
 - [1. Load and prepare data](https://junwoo-data.github.io/projects/european_soccer_prediction/1.load_and_prepare_data/)
 - [2 - 1. EDA - Match basic information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.1.eda_match_basic/)
 - [2 - 2. EDA - Match player information](https://junwoo-data.github.io/projects/european_soccer_prediction/2.2.eda_match_player/)
@@ -22,7 +22,7 @@ author_profile: true
 
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
 - [Link to the Github page](https://github.com/JunWoo-data/sepsis_prediction)
-- [0. About the project](https://junwoo-data.github.io/projects/sepsis_prediction/0.about_project/)
+- [About the project](https://junwoo-data.github.io/projects/sepsis_prediction/0.about_project/)
 - [1. Prepare data](https://junwoo-data.github.io/projects/sepsis_prediction/1.prepare_data/)
 - [2 - 1. EDA - Dependent variable: Outcome](https://junwoo-data.github.io/projects/sepsis_prediction/2.1.eda_outcome/)
 - [2 - 2. EDA - Demographic variables](https://junwoo-data.github.io/projects/sepsis_prediction/2.2.eda_demographic/)
