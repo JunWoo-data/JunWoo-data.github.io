@@ -19,7 +19,6 @@ author_profile: true
 - [3 - 1) Train machine learning models to predict match results (In progress)](https://junwoo-data.github.io/projects/european_soccer_prediction/3.1.modeling/)
 - [4) European soccer match dashboard (In progress)](https://junwoo-data.github.io/projects/european_soccer_prediction/4.dashboard/)
 
-
 ## Sepsis prediction using machine learning (Jan 2023 ~ Present)
 - [Link to the Github page](https://github.com/JunWoo-data/sepsis_prediction)
 - [About the project](https://junwoo-data.github.io/projects/sepsis_prediction/0.about_project/)
@@ -30,8 +29,8 @@ author_profile: true
 - [3) Train machine learning models to predict sepsis outcome (In progress)](https://junwoo-data.github.io/projects/sepsis_prediction/3.modeling/)
 - [4) Sepsis prediction process dashboard (In progress)](https://junwoo-data.github.io/projects/sepsis_prediction/4.dashboard/)
 
-
-## Analysis of tennis matches using computer vision (Jan 2023 ~ Present)
+## Analysis of tennis matches using TrackNet-based neural network and YOLOv7 (Jan 2023 ~ Present)
+- [Link to the Dashboard](https://github.com/JunWoo-data/tennis-detector/tree/master)
 
 ## Tennis club database and dashboard using Google BigQuery and Data Studio (Aug 2022 ~ Jan 2023)
 - [Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC)
@@ -40,6 +39,5 @@ author_profile: true
 - [1) Dashboard Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/1.dashboard_structure/)
 - [2) Database & Pipeline Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/2.database_structure/)
 
-## Tennis Ball Detection using TrackNet-based neural network (Sep 2022 ~ Dec 2022)
 
 
