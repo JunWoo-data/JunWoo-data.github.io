@@ -37,8 +37,8 @@ author_profile: true
 - [Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC)
 - [Link to the Github page](https://github.com/JunWoo-data/alttab-dashboard/tree/master)
 - [About the project](https://junwoo-data.github.io/projects/tennis_club_dashboard/0.about_project/)
-- [1. Dashboard Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/1.dashboard_structure/)
-- [2. Database & Pipeline Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/2.database_structure/)
+- [1) Dashboard Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/1.dashboard_structure/)
+- [2) Database & Pipeline Structure](https://junwoo-data.github.io/projects/tennis_club_dashboard/2.database_structure/)
 
 ## Tennis Ball Detection using TrackNet-based neural network (Sep 2022 ~ Dec 2022)
 
