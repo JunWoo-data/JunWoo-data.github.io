@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Prjects"
+title: "Projects"
 permalink: /projects/
 comments: true
 author_profile: true
