@@ -30,7 +30,8 @@ author_profile: true
 - [4) Sepsis prediction process dashboard (In progress)](https://junwoo-data.github.io/projects/sepsis_prediction/4.dashboard/)
 
 ## Analysis of tennis matches using TrackNet-based neural network and YOLOv7 (Jan 2023 ~ Present)
-- [Link to the Dashboard](https://github.com/JunWoo-data/tennis-detector/tree/master)
+- [Link to the Github page](https://github.com/JunWoo-data/tennis-detector/tree/master)
+- [About the project]()
 
 ## Tennis club database and dashboard using Google BigQuery and Data Studio (Aug 2022 ~ Jan 2023)
 - [Link to the Dashboard](https://lookerstudio.google.com/u/0/reporting/ebf85f76-2973-4fce-aebf-a201fccc9487/page/IMkrC)
